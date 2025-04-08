@@ -1,0 +1,40 @@
+h1{
+    color: red
+}
+
+p{
+    text-decoration: underline;
+}
+
+#paragrafoid{
+    background-color: brown;
+}
+
+.class1{
+    background-color: chartreuse;
+    text-decoration: none;
+}
+
+.class2{
+    background-color: chartreuse;
+    text-decoration: none;
+}
+
+
+*{
+    font-size: 1rem;
+}
+
+class1 class2{
+ background-color: chartreuse;
+}
+
+class1, class2{
+    background-color: blue;
+}
+
+.retanguloverde{
+    margin: 1 rem;
+    padding: 1 rem;
+    border: 3px;
+}
